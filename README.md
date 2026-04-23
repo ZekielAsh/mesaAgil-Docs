@@ -17,5 +17,6 @@ Crear una aplicación que permita mejorar la experiencia del comensal en un rest
 Proyecto de aplicación para restaurantes con un sistema de pedidos accesible, conexión entre diferentes secciones del establecimiento y recolección de estadísticas.
 
 ## Tecnologías
+- Java 17
 - React Native
-- Spring Boot
+- Spring Boot 4.0
